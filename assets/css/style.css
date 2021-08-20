@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #020202;
+    /*#c5c5c4*/
+    color: white;
+}
